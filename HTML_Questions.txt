@@ -1,0 +1,59 @@
+What is HTML?
+What are the basic tags in HTML?
+What is the difference between HTML and XHTML?
+What is the purpose of DOCTYPE in HTML?
+What is semantic HTML?
+What is the difference between a div and a span?
+What is the purpose of the title tag in HTML?
+What is the difference between a class and an ID in HTML?
+How do you add comments in HTML?
+What is the difference between a hyperlink and a anchor tag?
+What is the difference between the GET and POST methods in HTML?
+What is the purpose of the alt attribute in HTML?
+How do you create a hyperlink in HTML?
+What is the purpose of the target attribute in HTML?
+What is the purpose of the rel attribute in HTML?
+How do you add an image in HTML?
+What is the difference between an absolute and relative path in HTML?
+What is the difference between a table and a div in HTML?
+How do you create a form in HTML?
+What is the purpose of the action attribute in HTML?
+What is the difference between a radio button and a checkbox in HTML?
+What is the purpose of the option tag in HTML?
+How do you create a dropdown list in HTML?
+What is the purpose of the select tag in HTML?
+How do you add a background image in HTML?
+What is the purpose of the style tag in HTML?
+What is the purpose of the script tag in HTML?
+What is the difference between an inline and external CSS?
+How do you create a class in CSS?
+How do you create an ID in CSS?
+What is the purpose of the float property in CSS?
+What is the purpose of the clear property in CSS?
+What is the purpose of the display property in CSS?
+What is the purpose of the position property in CSS?
+What is the purpose of the z-index property in CSS?
+What is the purpose of the margin property in CSS?
+What is the purpose of the padding property in CSS?
+What is the purpose of the border property in CSS?
+What is the purpose of the font-family property in CSS?
+What is the purpose of the font-size property in CSS?
+What is the purpose of the font-weight property in CSS?
+What is the purpose of the line-height property in CSS?
+What is the purpose of the text-align property in CSS?
+What is the purpose of the text-decoration property in CSS?
+What is the purpose of the background-color property in CSS?
+What is the purpose of the opacity property in CSS?
+What is the purpose of the transition property in CSS?
+What is the purpose of the animation property in CSS?
+What is the purpose of the @media rule in CSS?
+What is the purpose of the viewport meta tag in HTML?
+What is the purpose of the meta description tag in HTML?
+What is the purpose of the meta keywords tag in HTML?
+What is the purpose of the canonical tag in HTML?
+What is the purpose of the robots meta tag in HTML?
+What is the purpose of the rel="nofollow" attribute in HTML?
+What is the purpose of the rel="noopener" attribute in HTML?
+What is the purpose of the rel="noreferrer" attribute in HTML?
+What is the purpose of the lang attribute in HTML?
+What is the purpose of the role attribute in HTML
